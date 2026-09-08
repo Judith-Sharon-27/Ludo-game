@@ -4,10 +4,6 @@ import sys
 import math
 
 pygame.init()
-
-# ============================================================
-# LUDO - polished Pygame edition
-# ============================================================
 WIDTH, HEIGHT = 1180, 820
 BOARD_SIZE = 720
 BOARD_X, BOARD_Y = 35, 50
